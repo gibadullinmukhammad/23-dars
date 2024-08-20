@@ -236,12 +236,6 @@
     margin-top: 35px;
 }
 
-.brown-sugar__img{
-  /* box-shadow: 10px 10px 10px 10px darkgreen; */
-
-  /* box-shadow: 0px 100px 100px -58px rgba(247, 5, 5, 1); */
-
-}
 
 .menu__wrapper{
     display: flex;
@@ -402,7 +396,8 @@
 }
 
 .basket__logo-text{
-    /* display: flex; */
+    /* display: flex; */ 
+    color: #150101;
 }
 
 .basket__play{
@@ -410,9 +405,6 @@
 
 }
 
-.number__wrapper{
-    
-}
 
 .number__registration{
 
